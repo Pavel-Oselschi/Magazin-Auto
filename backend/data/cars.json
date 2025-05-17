@@ -1,83 +1,95 @@
-[{
-        "id": 1,
-        "brand": "BMW",
-        "model": "X5",
-        "price": 18000,
-        "year": 2015,
-        "fuel": "Diesel",
-        "images": [
-            "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_fqn_izmo_1_500.avif",
-            "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_fs_izmo_1_500.jpg",
-            "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_pr_izmo_1_500.jpg",
-            "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_rqn_izmo_1_500.avif",
-            "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_rst_izmo_1_500.jpg"
-        ]
-    },
-    {
-        "id": 2,
-        "brand": "Audi",
-        "model": "A4",
-        "price": 13500,
-        "year": 2014,
-        "fuel": "Benzină",
-        "images": [
-            "/uploads/1747424971964-audi-a4-avant-back-1-1130404.jpg",
-            "/uploads/1747424971964-audi-a4-avant-back-side-1-1130402.jpg",
-            "/uploads/1747424971966-audi-a4-avant-back-side-1-1130405.jpg",
-            "/uploads/1747424971967-audi-a4-avant-close-up-1-1130408.jpg",
-            "/uploads/1747424971969-audi-a4-avant-interior-1-1130413.jpg",
-            "/uploads/1747424982785-audi-a4-avant-front-side-1-1130422.jpg",
-            "/uploads/1747424982787-audi-a4-avant-front-side-1-1130424.jpg",
-            "/uploads/1747424982788-audi-a4-avant-front-side-1-1130425.jpg",
-            "/uploads/1747424982789-audi-a4-avant-front-side-1-1130429.jpg"
-        ]
-    },
-    {
-        "id": 3,
-        "brand": "Mercedes",
-        "model": "E-Class",
-        "price": "28000",
-        "year": "2023",
-        "fuel": "Diesel",
-        "images": [
-            "/uploads/1747425559791-mercedes-benz-e-class-t-modell-1440-9.jpg",
-            "/uploads/1747425559794-mercedes-benz-e-class-t-modell-1440-12.jpg",
-            "/uploads/1747425559797-mercedes-benz-e-class-t-modell-1440-18.jpg",
-            "/uploads/1747425559801-mercedes-benz-e-class-t-modell-1440-19.jpg"
-        ]
-    },
-    {
-        "id": 4,
-        "brand": "Volkswagen",
-        "model": "Passat",
-        "price": 9500,
-        "year": 2013,
-        "fuel": "Diesel",
-        "images": [
-            "/uploads/1747425351780-3q4qpoqy-elYhkXo39.jpeg",
-            "/uploads/1747425355880-3q4qpoqy-wGrJgLMk13j.jpeg",
-            "/uploads/1747425355883-3q4qpoqy-zVnzeKfNgXQ.jpeg",
-            "/uploads/1747425355887-NMOkr.jpg",
-            "/uploads/1747425355889-QRVIl.jpg",
-            "/uploads/1747425358820-slgaI.jpg"
-        ]
-    },
-    {
-        "id": 5,
-        "brand": "DACIA",
-        "model": "Duster",
-        "price": "25000",
-        "year": "2024",
-        "fuel": "Diesel",
-        "images": [
-            "/uploads/1747433292221-Dacia-Duster-2024-1280-2d38367fdbe936801278c0fda10e7d4985.jpg",
-            "/uploads/1747433292223-Dacia-Duster-2024-1280-6afede211dcfeadd416f598bd0ddb8f065.jpg",
-            "/uploads/1747433292225-Dacia-Duster-2024-1280-6fd5db4455e96be6b4e3415120da56b41d.jpg",
-            "/uploads/1747433292227-Dacia-Duster-2024-1280-62e0b378937d8334455caefdd12707f8ba.jpg",
-            "/uploads/1747433292229-Dacia-Duster-2024-1280-92ce75ff95e5604d875282b8d05acef9c8.jpg",
-            "/uploads/1747433296477-Dacia-Duster-2024-1280-8958ffde30728e1b5be507fa711ddc04cd.jpg",
-            "/uploads/1747433296480-Dacia-Duster-2024-1280-a92e10633c1d07d24502ba55d0ddeaa6cf.jpg",
-            "/uploads/1747433296481-Dacia-Duster-2024-1280-fea1d657601040fc6774f5e600b2864f3b.jpg"
-        ]
-    }
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "X5",
+    "price": 18000,
+    "year": 2015,
+    "fuel": "Diesel",
+    "images": [
+      "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_fqn_izmo_1_500.avif",
+      "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_fs_izmo_1_500.jpg",
+      "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_pr_izmo_1_500.jpg",
+      "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_rqn_izmo_1_500.avif",
+      "/uploads/1747424711053-2015_bmw_x5_4dr-suv_xdrive35d_rst_izmo_1_500.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "A4",
+    "price": 13500,
+    "year": 2014,
+    "fuel": "Benzină",
+    "images": [
+      "/uploads/1747424971964-audi-a4-avant-back-1-1130404.jpg",
+      "/uploads/1747424971964-audi-a4-avant-back-side-1-1130402.jpg",
+      "/uploads/1747424971966-audi-a4-avant-back-side-1-1130405.jpg",
+      "/uploads/1747424971967-audi-a4-avant-close-up-1-1130408.jpg",
+      "/uploads/1747424971969-audi-a4-avant-interior-1-1130413.jpg",
+      "/uploads/1747424982785-audi-a4-avant-front-side-1-1130422.jpg",
+      "/uploads/1747424982787-audi-a4-avant-front-side-1-1130424.jpg",
+      "/uploads/1747424982788-audi-a4-avant-front-side-1-1130425.jpg",
+      "/uploads/1747424982789-audi-a4-avant-front-side-1-1130429.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Mercedes",
+    "model": "E-Class",
+    "price": "28000",
+    "year": "2023",
+    "fuel": "Diesel",
+    "images": [
+      "/uploads/1747425559791-mercedes-benz-e-class-t-modell-1440-9.jpg",
+      "/uploads/1747425559794-mercedes-benz-e-class-t-modell-1440-12.jpg",
+      "/uploads/1747425559797-mercedes-benz-e-class-t-modell-1440-18.jpg",
+      "/uploads/1747425559801-mercedes-benz-e-class-t-modell-1440-19.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "price": 9500,
+    "year": 2013,
+    "fuel": "Diesel",
+    "images": [
+      "/uploads/1747425351780-3q4qpoqy-elYhkXo39.jpeg",
+      "/uploads/1747425355880-3q4qpoqy-wGrJgLMk13j.jpeg",
+      "/uploads/1747425355883-3q4qpoqy-zVnzeKfNgXQ.jpeg",
+      "/uploads/1747425355887-NMOkr.jpg",
+      "/uploads/1747425355889-QRVIl.jpg",
+      "/uploads/1747425358820-slgaI.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "DACIA",
+    "model": "Duster",
+    "price": "25000",
+    "year": "2024",
+    "fuel": "Diesel",
+    "images": [
+      "/uploads/1747433292221-Dacia-Duster-2024-1280-2d38367fdbe936801278c0fda10e7d4985.jpg",
+      "/uploads/1747433292223-Dacia-Duster-2024-1280-6afede211dcfeadd416f598bd0ddb8f065.jpg",
+      "/uploads/1747433292225-Dacia-Duster-2024-1280-6fd5db4455e96be6b4e3415120da56b41d.jpg",
+      "/uploads/1747433292227-Dacia-Duster-2024-1280-62e0b378937d8334455caefdd12707f8ba.jpg",
+      "/uploads/1747433292229-Dacia-Duster-2024-1280-92ce75ff95e5604d875282b8d05acef9c8.jpg",
+      "/uploads/1747433296477-Dacia-Duster-2024-1280-8958ffde30728e1b5be507fa711ddc04cd.jpg",
+      "/uploads/1747433296480-Dacia-Duster-2024-1280-a92e10633c1d07d24502ba55d0ddeaa6cf.jpg",
+      "/uploads/1747433296481-Dacia-Duster-2024-1280-fea1d657601040fc6774f5e600b2864f3b.jpg"
+    ]
+  },
+  {
+    "brand": "Dacia",
+    "model": "Duster",
+    "price": "9999",
+    "year": "2010",
+    "fuel": "Diesel",
+    "images": [
+      "/uploads/1747459570185-daciaduster2010.webp"
+    ],
+    "id": 6
+  }
 ]
